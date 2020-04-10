@@ -1,5 +1,5 @@
 # vegas-notebooks
-Some notebooks to create samples and other stuff for vegas
+Some notebooks to create samples and other stuff for vegas. This notebooks correspond to [this tutorials](https://pcm-ca.github.io/vegas/tutorials/) in order to build the proposed samples.
 
 
 Here is the Binder link where you can run the notebooks and download the files:
